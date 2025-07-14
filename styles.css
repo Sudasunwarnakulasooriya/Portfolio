@@ -314,13 +314,14 @@
             position: absolute;
             width: 360px;
             height: 360px;
-            border-radius: 50%;
+            border-radius: 60%;
             background: white;
             display: flex;
             align-items: center;
             justify-content: center;
             z-index: 2;
             overflow: hidden;
+            
         }
 
         .image-content img {
